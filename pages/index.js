@@ -1,4 +1,4 @@
-const Index() {
+const Index = () => (
   Hello World
-};
+);
 export default Index;
