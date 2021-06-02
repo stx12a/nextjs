@@ -6,11 +6,5 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "mongodb": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
   "license": "MIT"
 }
