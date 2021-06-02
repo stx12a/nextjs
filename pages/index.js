@@ -1,1 +1,4 @@
-export default () => (<div>Hello Next.js</div>)
+const Index() {
+  Hello World
+};
+export default Index;
