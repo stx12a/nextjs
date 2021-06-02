@@ -1,5 +1,1 @@
-export default function() {
-  return (
-    Hello World
-  )
-}
+export default () => (<div>Hello Next.js</div>)
