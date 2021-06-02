@@ -2,8 +2,8 @@
   "name": "nextjs",
   "version": "1.0.0",
   "dependencies": {
-    "mongodb": "latest",
-    "next": "latest"
+    "next": "latest",
+    "mongodb": "latest"
   },
   "license": "MIT"
 }
