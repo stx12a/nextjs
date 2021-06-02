@@ -1,4 +1,3 @@
-const Index = () => (
+export default () => (
   Hello World
 );
-export default Index;
